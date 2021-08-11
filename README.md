@@ -1,1 +1,1 @@
-# It contains C/C++ programs.
+# It contains C programs.
